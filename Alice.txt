@@ -4,3 +4,4 @@ Alice changed.
 a
 edit 3
 d
+pulling with conflicts 
