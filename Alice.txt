@@ -4,3 +4,5 @@ Alice changed.
 a
 edit 3
 local edit
+d
+another change to alice
