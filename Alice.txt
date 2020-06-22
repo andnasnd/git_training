@@ -3,3 +3,4 @@ Some text on the second line.
 Alice changed.
 a
 edit 3
+local edit
